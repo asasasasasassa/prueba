@@ -1,0 +1,45 @@
+{
+    "id": "1",
+    "Nombre": "Benjamin",
+    "Apellido": "Munoz",
+    "Edad": "19",
+    "Rut": "13.582.942-6",
+    "Ciudad": "Santiago",
+    "Correo": "Benjamin.munoz@hotmail.com"
+}
+{
+    "id": "2",
+    "Nombre": "Marthin",
+    "Apellido": "Gonzalez",
+    "Edad": "21",
+    "Rut": "21.023.832-1",
+    "Ciudad": "Puerto Montt",
+    "Correo": "Marthin.Gonzalez@yahoo.cl"
+}
+{
+    "id": "3",
+    "Nombre": "Tomas",
+    "Apellido": "San Martin",
+    "Edad": "19",
+    "Rut": "21.402.723-7",
+    "Ciudad": "Concepcion",
+    "Correo": "Tomas.SanMartin@gmail.com"
+}
+{
+    "id": "4",
+    "Nombre": "Jose",
+    "Apellido": "Castro",
+    "Edad": "30",
+    "Rut": "20.346.678-2",
+    "Ciudad": "Santiago",
+    "Correo": "JoseCastro@gmail.com"
+}
+{
+    "id": "5",
+    "Nombre": "Mario",
+    "Apellido": "Perez",
+    "Edad": "27",
+    "Rut": "20.346.935-7",
+    "Ciudad": "Santiago",
+    "Correo": "JoseCastro@gmail.com"
+}
